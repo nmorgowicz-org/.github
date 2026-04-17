@@ -8,7 +8,7 @@ Personal space for my home lab tinkering, side projects, and the occasional open
 
 Most of my repos are private — experiments, home automation configs, self-hosted tooling, and things that aren't ready (or meant) for public consumption.
 
-The public repos are forks of projects I actively use and contribute patches back to.
+The public repos are forks of projects I actively use and may contribute patches back to.
 
 ---
 
