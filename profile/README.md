@@ -2,8 +2,8 @@
 
 Personal organization for development projects and self-hosted GitHub Actions runners.
 
-![Org Stats](https://github-readme-stats.vercel.app/api/?org=superbot&show_icons=true&theme=dark&hide_border=true)
+![Org Stats](https://github-readme-stats.vercel.app/api/?org=nmorgowicz&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-*.projects are listed below*
+*projects are listed below*
