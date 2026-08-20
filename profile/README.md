@@ -26,12 +26,6 @@ a container to run the qwen3-tts model with native intel openvino support for CP
 
 Python · ⭐ 0 · Forks 0 · Last pushed 2026-08-17
 
-### [iris-branding](https://github.com/nmorgowicz-org/iris-branding)
-
-Iris branding pages for Google Chat
-
-HTML · ⭐ 0 · Forks 0 · Last pushed 2026-07-21
-
 <!-- PROJECTS:END -->
 
 ## Focus
