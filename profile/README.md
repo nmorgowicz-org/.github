@@ -1,31 +1,56 @@
-# Hey, I'm Nick 👋
+# nmorgowicz-org
 
-Personal space for my home lab tinkering, side projects, and the occasional open source contribution.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Nick%20Morgowicz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Personal%20open-source%20workspace&descAlignY=60&descSize=18" alt="Nick Morgowicz — personal open-source workspace" />
+</p>
+
+This is Nick Morgowicz's personal open-source workspace: active projects, local-LLM tooling, experiments that are ready to share, and supporting infrastructure.
+
+My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upstream contributions and pull requests may appear there, while this organization is the canonical home for my own projects.
+
+## Projects
+
+<!-- PROJECTS:START -->
+
+**3 public projects** · ⭐ 1 star · Forks 0
+
+### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
+
+A cross-platform desktop control center for local LLM servers, models, calibration, and runtime workflows.
+
+Rust · ⭐ 1 · Forks 0 · Last pushed 2026-08-19
+
+### [persona-forge](https://github.com/nmorgowicz-org/persona-forge)
+
+a container to run the qwen3-tts model with native intel openvino support for CPU inference
+
+Python · ⭐ 0 · Forks 0 · Last pushed 2026-08-17
+
+### [iris-branding](https://github.com/nmorgowicz-org/iris-branding)
+
+Iris branding pages for Google Chat
+
+HTML · ⭐ 0 · Forks 0 · Last pushed 2026-07-21
+
+<!-- PROJECTS:END -->
+
+## Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Local%20AI-0f172a?style=for-the-badge&logo=llama&logoColor=white" alt="Local AI" />
+  <img src="https://img.shields.io/badge/Rust-2563eb?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Automation-0f172a?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+</p>
+
+## Find your way around
+
+- Start with [Local LLM Foundry](https://github.com/nmorgowicz-org/local-llm-foundry) for local inference tooling.
+- Visit [Persona Forge](https://github.com/nmorgowicz-org/persona-forge) for persona and agent-workflow tooling.
+- See [Iris Branding](https://github.com/nmorgowicz-org/iris-branding) for branding and presentation work.
+
+Questions, ideas, and bug reports are welcome in the issue tracker for the relevant project.
 
 ---
 
-## What you'll find here
-
-Most of my repos are private — experiments, home automation configs, self-hosted tooling, and things that aren't ready (or meant) for public consumption.
-
-The public repos are forks of projects I actively use and may contribute patches back to.
-
----
-
-## Interests & tools
-
-- **Home lab** — Proxmox, self-hosted services, local AI inference
-- **Local LLM** — llama.cpp, multi-model inference stacks, quantization, agentic coding workflows
-- **Languages** — Python, Node.js, TypeScript/TSX, Rust
-- **Automation** — CI/CD, scripting, GitHub Actions, making repetitive things not repetitive
-
----
-
-## Public forks
-
-If you found one of my public forks — I maintain personal patches on top of upstream.
-Feel free to open an issue if something looks broken, but PRs require prior discussion.
-
----
-
-*This org is a personal workspace. Nothing here is affiliated with any employer.*
+*Personal workspace; not affiliated with any employer.*
