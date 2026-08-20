@@ -12,7 +12,7 @@ My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upst
 
 <!-- PROJECTS:START -->
 
-**3 public projects** · ⭐ 1 star · Forks 0
+**2 public projects** · ⭐ 1 star · Forks 0
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
@@ -22,7 +22,7 @@ Rust · ⭐ 1 · Forks 0 · Last pushed 2026-08-19
 
 ### [persona-forge](https://github.com/nmorgowicz-org/persona-forge)
 
-a container to run the qwen3-tts model with native intel openvino support for CPU inference
+Open-source voice-cloning and voice-design studio with OmniVoice accent audition, Stitch Studio, and an OpenAI-compatible TTS API.
 
 Python · ⭐ 0 · Forks 0 · Last pushed 2026-08-17
 
