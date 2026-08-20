@@ -46,7 +46,13 @@ function projectMarkdown(repository) {
 }
 
 const repositories = (await fetchRepositories())
-  .filter((repository) => !repository.private && !repository.archived && repository.name !== ".github")
+  .filter(
+    (repository) =>
+      !repository.private &&
+      !repository.archived &&
+      repository.name !== ".github" &&
+      repository.name !== "iris-branding",
+  )
   .sort((left, right) => (right.pushed_at ?? "").localeCompare(left.pushed_at ?? ""));
 
 const stars = repositories.reduce((total, repository) => total + repository.stargazers_count, 0);
