@@ -41,7 +41,6 @@ Python · ⭐ 0 · Forks 0 · Last pushed 2026-08-17
 
 - Start with [Local LLM Foundry](https://github.com/nmorgowicz-org/local-llm-foundry) for local inference tooling.
 - Visit [Persona Forge](https://github.com/nmorgowicz-org/persona-forge) for persona and agent-workflow tooling.
-- See [Iris Branding](https://github.com/nmorgowicz-org/iris-branding) for branding and presentation work.
 
 Questions, ideas, and bug reports are welcome in the issue tracker for the relevant project.
 
