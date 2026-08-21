@@ -16,7 +16,7 @@ My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upst
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
-A cross-platform desktop control center for local LLM servers, models, calibration, and runtime workflows.
+AI runtime loader and model-management control center for local LLM deployments.
 
 Rust · ⭐ 1 · Forks 0 · Last pushed 2026-08-19
 
