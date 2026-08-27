@@ -12,13 +12,13 @@ My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upst
 
 <!-- PROJECTS:START -->
 
-**2 public projects** · ⭐ 1 star · Forks 0
+**2 public projects** · ⭐ 2 stars · Forks 0
 
 ### [persona-forge](https://github.com/nmorgowicz-org/persona-forge)
 
 Open-source voice-cloning and voice-design studio with OmniVoice accent audition, Stitch Studio, and an OpenAI-compatible TTS API.
 
-Python · ⭐ 0 · Forks 0 · Last pushed 2026-08-25
+Python · ⭐ 1 · Forks 0 · Last pushed 2026-08-27
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
