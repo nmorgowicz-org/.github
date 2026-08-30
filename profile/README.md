@@ -18,7 +18,7 @@ My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upst
 
 AI runtime loader and model-management control center for local LLM deployments.
 
-Rust · ⭐ 1 · Forks 0 · Last pushed 2026-08-29
+Rust · ⭐ 1 · Forks 0 · Last pushed 2026-08-30
 
 ### [persona-forge](https://github.com/nmorgowicz-org/persona-forge)
 
