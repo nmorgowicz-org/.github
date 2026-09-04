@@ -24,13 +24,13 @@ Python · ⭐ 1 · Forks 0 · Last pushed 2026-09-03
 
 Fully automatic censorship removal for language models
 
-Mixed languages · ⭐ 0 · Forks 0 · Last pushed 2026-09-02
+Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-03
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
 AI runtime loader and model-management control center for local LLM deployments.
 
-Rust · ⭐ 1 · Forks 0 · Last pushed 2026-09-02
+Rust · ⭐ 1 · Forks 0 · Last pushed 2026-09-03
 
 <!-- PROJECTS:END -->
 
