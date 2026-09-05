@@ -18,13 +18,13 @@ My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upst
 
 Open-source voice-cloning and voice-design studio with OmniVoice accent audition, Stitch Studio, and an OpenAI-compatible TTS API.
 
-Python · ⭐ 1 · Forks 0 · Last pushed 2026-09-03
+Python · ⭐ 1 · Forks 0 · Last pushed 2026-09-05
 
 ### [heretic](https://github.com/nmorgowicz-org/heretic)
 
 Fully automatic censorship removal for language models
 
-Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-03
+Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-04
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
