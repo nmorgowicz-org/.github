@@ -24,7 +24,7 @@ Python · ⭐ 1 · Forks 0 · Last pushed 2026-09-07
 
 Fully automatic censorship removal for language models
 
-Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-05
+Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-07
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
