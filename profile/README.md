@@ -14,17 +14,17 @@ My personal GitHub profile is [@nmorgowicz](https://github.com/nmorgowicz). Upst
 
 **3 public projects** · ⭐ 2 stars · Forks 0
 
+### [heretic](https://github.com/nmorgowicz-org/heretic)
+
+Fully automatic censorship removal for language models
+
+Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-10
+
 ### [persona-forge](https://github.com/nmorgowicz-org/persona-forge)
 
 Open-source voice-cloning and voice-design studio with OmniVoice accent audition, Stitch Studio, and an OpenAI-compatible TTS API.
 
 Python · ⭐ 1 · Forks 0 · Last pushed 2026-09-09
-
-### [heretic](https://github.com/nmorgowicz-org/heretic)
-
-Fully automatic censorship removal for language models
-
-Python · ⭐ 0 · Forks 0 · Last pushed 2026-09-07
 
 ### [local-llm-foundry](https://github.com/nmorgowicz-org/local-llm-foundry)
 
